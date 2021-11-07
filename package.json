@@ -1,6 +1,6 @@
 {
   "name": "PostEx",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "PostEx API",
   "main": "config/server/index.js",
   "scripts": {
