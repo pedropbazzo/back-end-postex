@@ -25,6 +25,6 @@
     "nodemailer-express-handlebars": "^3.1.0",
     "nodemon": "^2.0.2",
     "path": "^0.12.7",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   }
 }
